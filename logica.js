@@ -9,7 +9,6 @@ while (true) {
         console.log("Error: Debes ingresar un número válido.");
     }
 }
-
 let serie = [];
 for (let i = 0; i < numero; i++) {
     if (i === 0) {
